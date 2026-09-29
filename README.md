@@ -48,6 +48,7 @@ Do **not** use legacy Creative Listing API keys for MCP (HTTP 410). Do **not** p
 | `create_listing` | Create a listing (`mcp:write`) |
 | `update_listing` | Update a listing (`mcp:write`) |
 | `manage_listing_photos` | Manage listing photos (`mcp:write`) |
+| `set_listing_status` | Set listing status (`mcp:write`) |
 
 ## Example prompts
 

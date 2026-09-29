@@ -1,6 +1,6 @@
 ---
 name: creative-listing-getting-started
-description: Use when the user wants to find, create, or manage Creative Listing real-estate deals from chat (seller-financed, subject-to, rentals). Covers first-run OAuth connect and the eight listing tools.
+description: Use when the user wants to find, create, or manage Creative Listing real-estate deals from chat (seller-financed, subject-to, rentals). Covers first-run OAuth connect and the nine public listing tools.
 ---
 
 # Creative Listing — getting started
@@ -18,7 +18,7 @@ description: Use when the user wants to find, create, or manage Creative Listing
 3. Prefer the **prod** MCP only: `https://www.creativelisting.com/api/mcp`. Never point a public install at a stage host.
 4. Do **not** use legacy Creative Listing API keys for MCP — the server rejects them (HTTP 410). Auth is OAuth only.
 
-## Tools (8)
+## Tools (9)
 
 | Tool | Purpose |
 | --- | --- |
@@ -30,6 +30,7 @@ description: Use when the user wants to find, create, or manage Creative Listing
 | `create_listing` | Create a listing (needs `mcp:write`) |
 | `update_listing` | Update a listing (needs `mcp:write`) |
 | `manage_listing_photos` | Add/remove listing photos (needs `mcp:write`) |
+| `set_listing_status` | Set listing status (needs `mcp:write`) |
 
 Write tools require the `mcp:write` scope at consent.
 
