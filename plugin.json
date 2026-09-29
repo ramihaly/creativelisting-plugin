@@ -9,7 +9,7 @@
     "url": "https://www.creativelisting.com"
   },
   "homepage": "https://www.creativelisting.com",
-  "repository": "https://github.com/ramihaly/creative-listing-plugin",
+  "repository": "https://github.com/ramihaly/creativelisting-plugin",
   "license": "MIT",
   "keywords": ["real-estate", "mcp", "creative-listing", "deals", "listings"]
 }

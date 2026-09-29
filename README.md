@@ -10,7 +10,7 @@ Search, create, and manage creative real-estate deals on [Creative Listing](http
 2. Complete OAuth when Cursor prompts you for `creativelisting.com`.
 3. Sign in with a free [Creative Listing](https://www.creativelisting.com) account.
 
-Publish form (maintainers): https://cursor.com/marketplace/publish
+Publish form (maintainers): https://cursor.directory/plugins/new (preferred) or cursor.com/marketplace/publish
 
 ## MCP
 
